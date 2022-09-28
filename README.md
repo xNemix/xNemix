@@ -1,7 +1,7 @@
 ## Hey! 👋
 I'm Oscar, a 25 years old web developer from Norway.
 
-- 🧭 Student at (https://getacademy.no)
+- 🧭 Student at [GetAcademy](https://getacademy.no)
 
 ## Skills
 - 👨‍💻 HTML, JavaScript
