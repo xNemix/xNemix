@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey! 👋
+I'm Oscar, a 25 years old web developer from Norway.
 
-<!--
-**xNemix/xNemix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧭 Student at (https://getacademy.no)
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 HTML, JavaScript
+- ⚙️ React
+- 👁️ CSS
+- 💽 MySQL, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [Portfolio Coming Soon](https://xnemix.github.io/)
+- [Nemix#2075](./) on Discord
