@@ -9,7 +9,7 @@ I'm Oscar, a 25 years old web developer from Norway.
 - 👁️ CSS
 - 💽 MySQL, SQL
 
--Currently learning C#, and the goal is to build a fullstack C# application
+- Currently learning C#, and the goal is to build a fullstack C# application
 
 ## Contact
 - [Portfolio Coming Soon](https://xnemix.github.io/)
