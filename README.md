@@ -16,5 +16,5 @@ I'm Oscar, a 25 years old web developer from Norway.
 
 
 ## Contact
-- [Portfolio Coming Soon](https://xnemix.github.io/)
+- [Portfolio Coming Soon]
 - [Nemix#2075](./) on Discord
