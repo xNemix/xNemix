@@ -1,21 +1,28 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/oscar-hansen-b37612267"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"      alt="LinkedIn Badge"></a>
   <a href="https://www.buymeacoffee.com/Nemix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
-</p>
+</p> -->
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=xNemix&style=flat-square&color=blue" alt=""></p> -->
-<h1 align="center">Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Oscar</h1>
+<h3 align="center">A passionate Fullstack developer from Norway</h3>
 
 
 ### :woman_technologist: &nbsp;About Me :
 
-I'm Oscar, a 26 year old Full Stack Developer from Norway.
+- 🔭 I’m currently a student at [GET Academy](https://getacademy.no)
 
-- 🔭 I’m currently a student at [GetAcademy](https://getacademy.no).
-- 🌱 Exploring Functional Programming & Scala.
-- ⚡ In my free time I learn various new techs and work on my projects.
-- 📫 How to reach me: ![](https://dcbadge.vercel.app/api/shield/228092877098582016?style=flat&compact=true) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Oscar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-hansen-b37612267)
+- 🌱 I’m currently learning **Functional Programming & Scala**
+
+- ⚡ In my free time **I learn various new techs and work on my projects.**
 
 ---
+
+### &nbsp;Connect With Me :
+
+<a href="https://linkedin.com/in/oscar-hansen-b37612267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar-hansen-b37612267" height="30" width="40" /></a>
+<a href="https://dev.to/nemix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nemix" height="30" width="40" /></a>
+![](https://dcbadge.vercel.app/api/shield/228092877098582016?style=flat&compact=true) 
+
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -40,7 +47,8 @@ I'm Oscar, a 26 year old Full Stack Developer from Norway.
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xNemix&theme=dark&background=000000)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xnemix&show_icons=true&locale=en" alt="xnemix" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xNemix&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xnemix&" alt="xnemix" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xnemix&show_icons=true&locale=en&layout=compact" alt="xnemix" /></p>
