@@ -1,8 +1,6 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/oscar-hansen-b37612267"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/Nemix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  <a href="https://www.linkedin.com/in/oscar-hansen-b37612267"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"      alt="LinkedIn Badge"></a>
+  <a href="https://www.buymeacoffee.com/Nemix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
 </p>
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=xNemix&style=flat-square&color=blue" alt=""></p> -->
 <h1 align="center">Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
