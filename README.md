@@ -9,9 +9,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-- 🔭 I’m currently a student at [GET Academy](https://getacademy.no)
-
-- 🌱 I’m currently learning **Functional Programming & Scala**
+- 🔭 I’m currently a system developer at [Trainor](https://trainor.no)
 
 - ⚡ In my free time **I learn various new techs and work on my projects.**
 
